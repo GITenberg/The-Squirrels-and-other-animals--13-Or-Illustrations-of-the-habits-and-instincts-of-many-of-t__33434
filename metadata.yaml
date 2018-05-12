@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36423'
     url: http://www.gutenberg.org/2009/agents/36423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33434#The-Squirrels-and-other-animals--13-Or-Illustrations-of-the-habits-and-instincts-of-many-of-t_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
